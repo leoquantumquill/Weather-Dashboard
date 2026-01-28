@@ -1,0 +1,23 @@
+{
+  "name": "weather-dashboard-client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@mui/icons-material": "^5.11.0",
+    "axios": "^0.27.2",
+    "dayjs": "^1.11.7",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^4.1.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0",
+    "tslib": "^2.5.0",
+    "typescript": "^4.9.5",
+    "weather-icons": "^2.0.9" // optional, for nice icons
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
